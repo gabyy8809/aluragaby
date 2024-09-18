@@ -1,0 +1,15 @@
+:root{
+    --cor-principal:rgb(0, 0, 0);
+    --cor-secundaria:rgb(230, 174, 174);
+    --cor-botao:white;
+    --cor-fundo:rgb(235, 88, 113);
+}
+
+body{
+   background-color:var(--cor-fundo);
+
+
+
+}
+
+
